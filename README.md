@@ -84,4 +84,5 @@ Series of scripts that kill un-needed background processes, child threads and ch
 - Titanfall 2
 - Insurgency: Sandstorm
 - Payday 2
+
 And more added regularly.
