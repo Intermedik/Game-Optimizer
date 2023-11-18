@@ -2,6 +2,9 @@
 Series of scripts that kill un-needed background processes, child threads and change priorities accordingly while your game is open. Also kills Microsoft telemetry network services which aren't needed ever and slows down network. Supported games will continually be updated. Feel free to include suggestions in issues tab. 
 * For best results, make sure you run as administrator, otherwise certain processes or child threads will not be killed.
 
+# Download
+https://github.com/Intermedik/Game-Optimizer/releases/download/v1.0.1/Optimizer.zip
+
 # Features
 - Kills un-needed background processes
 - Kills un-needed child threads
